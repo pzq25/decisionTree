@@ -1,0 +1,61 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-230px;
+  width:383px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:230px;
+  top:204px;
+  width:383px;
+  height:49px;
+  font-family:'华文新魏 Regular', '华文新魏';
+  font-weight:400;
+  font-style:normal;
+  font-size:48px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:383px;
+  height:49px;
+}
+#u1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:383px;
+  white-space:nowrap;
+}
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:relative;
+  left:-40px;
+  width:287px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#u0.a {
+  left:40px;
+  top:193px;
+  width:287px;
+  height:37px;
+}
+#u0_img.a {
+  width:287px;
+  height:37px;
+}
+#u1.a {
+  width:287px;
+}
