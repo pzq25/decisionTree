@@ -83,15 +83,33 @@
 body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:relative;
-  left:-150px;
+  left:-20px;
   width:270px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
 }
 #u0.a {
+  left:53px;
+  top:190px;
+}
+#u0_img.a {
+}
+#u1.a {
 }
 #u2.a {
+  left:190px;
+  top:297px;
+}
+#u2_img.a {
+}
+#u3.a {
 }
 #u4.a {
+  left:20px;
+  top:297px;
+}
+#u4_img.a {
+}
+#u5.a {
 }

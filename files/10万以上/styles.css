@@ -2,7 +2,7 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-40px;
+  left:-26px;
   width:324px;
   margin-left:auto;
   margin-right:auto;
@@ -14,7 +14,7 @@
 }
 #u0 {
   position:absolute;
-  left:40px;
+  left:26px;
   top:193px;
   width:324px;
   height:37px;
@@ -44,7 +44,7 @@
 body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:relative;
-  left:-40px;
+  left:-26px;
   width:324px;
   margin-left:auto;
   margin-right:auto;

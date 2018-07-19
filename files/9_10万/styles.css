@@ -2,7 +2,7 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-40px;
+  left:-28px;
   width:302px;
   margin-left:auto;
   margin-right:auto;
@@ -14,8 +14,8 @@
 }
 #u0 {
   position:absolute;
-  left:40px;
-  top:193px;
+  left:28px;
+  top:190px;
   width:302px;
   height:37px;
   font-family:'华文新魏 Regular', '华文新魏';
@@ -44,7 +44,7 @@
 body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:relative;
-  left:-40px;
+  left:-28px;
   width:302px;
   margin-left:auto;
   margin-right:auto;
